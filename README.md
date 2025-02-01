@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Python, Js Main ??
-https://github-readme-stats-eight-lac-66.vercel.app/api/top-langs/?username=Premnoi&theme=dark
+[![Top Langs](https://github-readme-stats-eight-lac-66.vercel.app/api/top-langs/?username=Premnoi&theme=dark)]
 <!--
 **Premnoi/Premnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

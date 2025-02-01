@@ -1,17 +1,26 @@
-## Hi there 👋
-## Python, Js Main ??
-[![Top Langs](https://github-readme-stats-eight-lac-66.vercel.app/api/top-langs/?username=Premnoi&theme=dark)]
-<!--
-**Premnoi/Premnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Premnoi  
+[![Top Langs](https://github-readme-stats-eight-lac-66.vercel.app/api/top-langs/?username=Premnoi&theme=dark)](https://youtu.be/jJzw1h5CR-I?si=Nc8fHDTS_7m63ZNp)
+## About Me  
+I am a beginner developer exploring the world of programming. My focus is on **Full-Stack Development, AI, and Cybersecurity**. I am currently learning **Python, JavaScript, and web development frameworks** to build real-world applications.  
 
-Here are some ideas to get you started:
+### Interests  
+- AI and Natural Language Processing (NLP)  
+- Web development (Frontend & Backend)  
+- Cybersecurity and system automation  
+- Raspberry Pi and embedded systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack  
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Node.js, React, Flask  
+- **Learning:** Machine Learning, APIs, Database Management  
+
+### Goals  
+- Improve my **coding skills** and build real-world projects  
+- Develop a **chatbot with AI**  
+- Master **Full-Stack Development**  
+- Gain knowledge in **cybersecurity and automation**  
+
+## Contact  
+- GitHub: [Premnoi](https://github.com/Premnoi)  
+- Discord: *Your Discord Username*  
+- Twitter: *Your Twitter Handle (if applicable)*  

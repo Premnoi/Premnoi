@@ -23,4 +23,4 @@ I am a beginner developer exploring the world of programming. My focus is on **F
 ## Contact  
 - GitHub: [Premnoi](https://github.com/Premnoi)  
 - Discord: *premnoi*  
-- Twitter: *Premnoi_Real*  
+- Twitter: [Premnoi_Real](https://x.com/Premnoi_Real) 

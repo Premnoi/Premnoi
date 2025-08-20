@@ -5,12 +5,12 @@ I am a beginner developer exploring the world of programming. My focus is on **C
 
 ### Interests
 - Web development (Frontend & Backend)
-- Cybersecurity
+- Cybersecurity - Red team
 - Raspberry Pi
 
 ### Tech Stack
 - **Languages:** Python, JavaScript
-- **Frameworks & Tools:** non
+- **Frameworks & Tools:** vscode, visual studio
 - **Learning:** Cpp, react
 
 ### Goals  

@@ -1,7 +1,7 @@
 # Premnoi
 [![Top Langs](https://github-readme-stats-eight-lac-66.vercel.app/api/top-langs/?username=Premnoi&theme=dark)](https://youtu.be/jJzw1h5CR-I?si=Nc8fHDTS_7m63ZNp)
 ## About Me  
-I am a beginner developer exploring the world of programming. My focus is on **Cybersecurity**. I am currently learning **Python, cpp and JavaScript** to build projact.
+I am a beginner developer. My focus is on **Cybersecurity**. I am currently learning **Python, cpp and JavaScript** to build something.
 
 ### Interests
 - Web development (Frontend & Backend)
@@ -18,6 +18,4 @@ I am a beginner developer exploring the world of programming. My focus is on **C
 - Gain knowledge in **cybersecurity**
 
 ## Contact  
-- Facebook: [Premnoi](https://web.facebook.com/profile.php?id=100086227287249)
-- Discord: *premnoi*
 - Twitter: [Premnoi_Real](https://x.com/Premnoi_Real)

@@ -16,6 +16,3 @@ I am a beginner developer. My focus is on **Cybersecurity**. I am currently lear
 ### Goals  
 - Improve my **coding skills**
 - Gain knowledge in **cybersecurity**
-
-## Contact  
-- Twitter: [Premnoi_Real](https://x.com/Premnoi_Real)

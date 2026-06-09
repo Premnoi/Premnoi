@@ -14,4 +14,4 @@ I am a new developer. My focus is on **Electronic**. I am currently learning **C
 
 ### Goals  
 - Improve my **Brain**
-- Gain knowledge in **Codeing skill**
+- Gain knowledge in **Coding skill**

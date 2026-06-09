@@ -9,7 +9,7 @@ I am a new developer. My focus is on **Electronic**. I am currently learning **C
 
 ### Tech Stack
 - **Languages:** Python, JavaScript
-- **Frameworks & Tools:** vscode, visual studio
+- **Frameworks & Tools:** vscode, visual studio, Arduino
 - **Learning:** Cpp
 
 ### Goals  
